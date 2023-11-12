@@ -1,0 +1,3 @@
+/home/asus/CLionProjects/tugas16_c/cmake-build-debug/CMakeFiles/tugas16_c.dir
+/home/asus/CLionProjects/tugas16_c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/asus/CLionProjects/tugas16_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
